@@ -2,8 +2,9 @@
 ## Artificial Intelligence
 Artificial Intelligence (AI) is the ability of machines to learn, think, and perform tasks, often in ways that mimic human Intelligence.
 ## Artificial General Intelligence
-Artificial General Intelligence (AGI) refers to the hypothetical intelligence of a machine that possesses the ability to understand or learn any intellectual task that a human being can. It is a type of Artificial Intelligence (AI) that aims to mimic the
+Artificial General Intelligence (AGI) refers to the hypothetical intelligence of a machine that possesses the ability to understand or learn any intellectual task that a human being can. It is a type of Artificial Intelligence (AI) that aims to mimic the cognitive abilities of the human brain. AGI is also known as strong AI or deep AI.
 ## History of Artificial Intelligence
+
 ### Perceptron
 ### Backpropagation
 ### AI Winter
