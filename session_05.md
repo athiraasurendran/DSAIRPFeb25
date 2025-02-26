@@ -33,8 +33,11 @@ Expert systems ( AI that mimicked human decisions ) became popular but were too 
 3) End of the Winter-The AI Boom
 AI Winters ended when faster computers, better algorithms, and more data made AI more powerful. In the 2000s, AI became useful in areas like voice assistants ( siri ) and image recognition.
 ### DARPA Grand Challenge 2005
+The DARPA Grand Challenge 2005 was a competition organised by the defense Advanced Research Project Agency ( DARPA ). The goal was to encourage the development of self driving vehicles that could navigate a difficult desert course without human help.
 ### ImageNet 2012
+ImageNet 2012 refers to the ImageNet Large Scale Visual Recognition challenge (ILSVRC) held in 2012. the competition was a major breakthrough in artificial Intelligence (AI), especially in computer vision the ability of machine to recognise and understand images.
 ### 2024 Nobel Prize in Physics
+
 ### Deepseek
 ## Key Deciding Factors of Growth of AI
 ## Data Science, Machine Learning and Artificial Intelligence
