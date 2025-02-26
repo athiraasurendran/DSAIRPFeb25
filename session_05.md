@@ -25,7 +25,13 @@ A percepton is the most basic type of artificial neural network. It was invented
 ### Backpropagation
 Backpropagation is a method used to train neural networks and improve their accuracy. It helps the network learn from mistakes by adjusting its internal values ( called weights ) step by step. This process makes the network smater over time.
 ### AI Winter
-
+AI Winter refers to a time when interest, funding ( money ), and research in Artificial Intelligence (AI) slowed down because AI technology did not meet high expectations. There have been two major AI winter in history.
+1) First AI Winter ( 1974-1980s )
+Early AI systems could only solve simple problems. Governments reduced funding when AI could not meet their expectations.
+2) Second AI Winter ( 1987-1990s )
+Expert systems ( AI that mimicked human decisions ) became popular but were too expensive and hard to maintain. When these systems failed, funding decreased again.
+3) End of the Winter-The AI Boom
+AI Winters ended when faster computers, better algorithms, and more data made AI more powerful. In the 2000s, AI became useful in areas like voice assistants ( siri ) and image recognition.
 ### DARPA Grand Challenge 2005
 ### ImageNet 2012
 ### 2024 Nobel Prize in Physics
