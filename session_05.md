@@ -21,8 +21,11 @@ Deep Learning ( a special kind of machine learning ) made AI smarter. AI could r
 8) 2020s-Modern AI
 AI is now used in health care, finance, education, and more. Tools like ChatGPT can talk, write, and assiats with many tasks. AI continues to grow and change the world.   
 ### Perceptron
+A percepton is the most basic type of artificial neural network. It was invented by Frank Rosenblatt in 1958. Perceptrons are used to mimic how human brain cells ( neurons ) work in solving simple problems.
 ### Backpropagation
+Backpropagation is a method used to train neural networks and improve their accuracy. It helps the network learn from mistakes by adjusting its internal values ( called weights ) step by step. This process makes the network smater over time.
 ### AI Winter
+
 ### DARPA Grand Challenge 2005
 ### ImageNet 2012
 ### 2024 Nobel Prize in Physics
