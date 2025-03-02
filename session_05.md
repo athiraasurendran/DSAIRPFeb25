@@ -47,6 +47,17 @@ Data science is the study of collecting, analyzing and interpreting data to find
 Machine learning (ML) is a part of AI where machines learn from data and improve their performance without being directly programmed.
 Artificial Intelligence (AI) is the broader concept of making machines think and act like humans. It includes machine learning and other advanced techniques.
 ## Data Science Application Domains
+Health Care - predicting diseases, improving patient care, and analysing medical images.
+Finance - Fraud detection , risk assessment, and stock market predictions.
+E-commerce - Personalizing recommendations, customer behavior analysis, and inventory management.
+Transportation - Optimizing delivery routes, traffic prediction, and self-driving vehicles.
+Education - Personalised learning, student performance analysis, and automated grading.
+Marketing - Customer segmentation, sentiment analysis, and campaign optimisation.
+Social Media - Analysing user bahavior, delecting fake news, and content recommendations.
 ## Correlation Vs. Causation
+Correlation is a statistical relationship between variables, while causation is a cause and effect relationship between variables.
+correlation means two things are related, when one changes, the other also changes. But it does not mean one thing causes the other.
+Causation means one thing directly causes another to happen.
 ## Ethics in AI
+Ethics in AI is the practice of creating AI systems that are fair, safe, and accountable. AI ethics also involves ensuring that AI systems are transparent, auditable, and do not violate human rights.
 
