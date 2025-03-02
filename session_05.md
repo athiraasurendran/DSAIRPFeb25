@@ -47,21 +47,22 @@ Data science is the study of collecting, analyzing and interpreting data to find
 Machine learning (ML) is a part of AI where machines learn from data and improve their performance without being directly programmed.
 Artificial Intelligence (AI) is the broader concept of making machines think and act like humans. It includes machine learning and other advanced techniques.
 ## Data Science Application Domains
-Health Care - predicting diseases, improving patient care, and analysing medical images.
-Finance - Fraud detection , risk assessment, and stock market predictions.
-E-commerce - Personalizing recommendations, customer behavior analysis, and inventory management.
-Transportation - Optimizing delivery routes, traffic prediction, and self-driving vehicles.
-Education - Personalised learning, student performance analysis, and automated grading.
-Marketing - Customer segmentation, sentiment analysis, and campaign optimisation.
-Social Media - Analysing user bahavior, delecting fake news, and content recommendations.
+1) Health Care - predicting diseases, improving patient care, and analysing medical images.
+2) Finance - Fraud detection , risk assessment, and stock market predictions.
+3) E-commerce - Personalizing recommendations, customer behavior analysis, and inventory management.
+4) Transportation - Optimizing delivery routes, traffic prediction, and self-driving vehicles.
+5) Education - Personalised learning, student performance analysis, and automated grading.
+6) Marketing - Customer segmentation, sentiment analysis, and campaign optimisation.
+7) Social Media - Analysing user bahavior, delecting fake news, and content recommendations.
 ## Correlation Vs. Causation
 Correlation is a statistical relationship between variables, while causation is a cause and effect relationship between variables.
 correlation means two things are related, when one changes, the other also changes. But it does not mean one thing causes the other.
 Causation means one thing directly causes another to happen.
 ## Ethics in AI
 Ethics in AI is the practice of creating AI systems that are fair, safe, and accountable. AI ethics also involves ensuring that AI systems are transparent, auditable, and do not violate human rights.
-Fairness - AI systems should not harm people's physical safety or mental well-being.
-Transparency - AI systems and their limitations should be openly communicated.
-Accountability - AI systems should be auditable and traceable.
-Human Rights - AI systems should not violate human rights.
-Environmental Sustainability - AI systems should not harm the environment.
+1) Fairness - AI systems should not discriminate against individuals or groups. 
+2) Safety - AI systems should not harm people's physical safety or mental well-being.
+3) Transparency - AI systems and their limitations should be openly communicated.
+4) Accountability - AI systems should be auditable and traceable.
+5) Human Rights - AI systems should not violate human rights.
+6) Environmental Sustainability - AI systems should not harm the environment.
