@@ -37,10 +37,15 @@ The DARPA Grand Challenge 2005 was a competition organised by the defense Advanc
 ### ImageNet 2012
 ImageNet 2012 refers to the ImageNet Large Scale Visual Recognition challenge (ILSVRC) held in 2012. the competition was a major breakthrough in artificial Intelligence (AI), especially in computer vision the ability of machine to recognise and understand images.
 ### 2024 Nobel Prize in Physics
-
+In 2024, the Nobel Prize in Pysics was awarded jointly to John J. Hopfiled of princeton university and Geoffrey E. Hinton of the university of Toronto. They were honored "For foundational discoveries and inventions that enable machine learning with artificial neural networks." 
 ### Deepseek
+DeepSeek is a chinese artificial intelligence (AI) company renowned for developing  advanced large language models (LLMs) that rival leading global AI technologies. Their flagship model, DeepSeek-V3, boasts over 600 billion parameters, delivering high performance across various benchmarks.
 ## Key Deciding Factors of Growth of AI
+The Growth of AI depends on several key factors, data avail ability, advanced algorithms, faster computing power, and investment. Large amounts of data help AI learn better, while improved algorithms make it smarter. Faster computers process information quickly, and more funding supports research and innovation. Together, these factors drive AI's rapid development and wider use in everyday life.
 ## Data Science, Machine Learning and Artificial Intelligence
+Data science is the study of collecting, analyzing and interpreting data to find udeful insights.
+Machine learning (ML) is a part of AI where machines learn from data and improve their performance without being directly programmed.
+Artificial Intelligence (AI) is the broader concept of making machines think and act like humans. It includes machine learning and other advanced techniques.
 ## Data Science Application Domains
 ## Correlation Vs. Causation
 ## Ethics in AI
