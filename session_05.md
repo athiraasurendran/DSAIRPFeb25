@@ -60,4 +60,8 @@ correlation means two things are related, when one changes, the other also chang
 Causation means one thing directly causes another to happen.
 ## Ethics in AI
 Ethics in AI is the practice of creating AI systems that are fair, safe, and accountable. AI ethics also involves ensuring that AI systems are transparent, auditable, and do not violate human rights.
-
+Fairness - AI systems should not harm people's physical safety or mental well-being.
+Transparency - AI systems and their limitations should be openly communicated.
+Accountability - AI systems should be auditable and traceable.
+Human Rights - AI systems should not violate human rights.
+Environmental Sustainability - AI systems should not harm the environment.
