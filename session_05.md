@@ -43,7 +43,7 @@ DeepSeek is a chinese artificial intelligence (AI) company renowned for developi
 ## Key Deciding Factors of Growth of AI
 The Growth of AI depends on several key factors, data avail ability, advanced algorithms, faster computing power, and investment. Large amounts of data help AI learn better, while improved algorithms make it smarter. Faster computers process information quickly, and more funding supports research and innovation. Together, these factors drive AI's rapid development and wider use in everyday life.
 ## Data Science, Machine Learning and Artificial Intelligence
-Data science is the study of collecting, analyzing and interpreting data to find udeful insights.
+Data science is the study of collecting, analyzing and interpreting data to find useful insights.
 Machine learning (ML) is a part of AI where machines learn from data and improve their performance without being directly programmed.
 Artificial Intelligence (AI) is the broader concept of making machines think and act like humans. It includes machine learning and other advanced techniques.
 ## Data Science Application Domains
